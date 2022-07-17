@@ -14,7 +14,7 @@ el archivo
 Posteriormente, realizamos el modelado del diagrama de clases apoyándonos en las descripciones 
 del listado anterior
 
-[Link: Diagrama de Clase]()
+[Link: Diagrama de Clase](https://luisapaez.github.io/ProyectosJava/diagrama.html)
 
 Finalmente, realizamos la implementación a código utilizando Java
 
