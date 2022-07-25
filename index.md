@@ -7,3 +7,7 @@
 2. Análisis de Datos: Curso Propedéutico 2023 Fc
 
 [Documento](Analisis.html)
+
+3. Temario curso Python
+
+[Documento](Temario.pdf)
